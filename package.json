@@ -10,7 +10,7 @@
     "url": "https://github.com/blahah/{{name}}.git"
   },
   "author": "Rik Smith-Unna (@blahah)",
-  "license": "CC0",
+  "license": "CC0-1.0",
   "bugs": {
     "url": "https://github.com/blahah/{{name}}/issues"
   },
