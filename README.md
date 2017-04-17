@@ -15,7 +15,7 @@
 
 ---
 
-## Install
+## Install
 
 ```
 npm install {{name}}
