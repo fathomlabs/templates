@@ -7,12 +7,12 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/blahah/{{name}}.git"
+    "url": "https://github.com/fathomlabs/{{name}}.git"
   },
-  "author": "Rik Smith-Unna (@blahah)",
+  "author": "Fathom Labs (@fathomlabs)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/blahah/{{name}}/issues"
+    "url": "https://github.com/fathomlabs/{{name}}/issues"
   },
-  "homepage": "https://github.com/blahah/{{name}}"
+  "homepage": "https://github.com/fathomlabs/{{name}}"
 }
