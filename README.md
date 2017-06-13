@@ -7,7 +7,7 @@
     <a href="https://npmjs.com/packages/{{name}}" alt="npm package">
       <img src="https://img.shields.io/npm/v/{{name}}.svg?style=flat-square">
     </a>
-    <a href="https://github.com/blahah/{{name}}/blob/master/LICENSE" alt="CC0 public domain">
+    <a href="https://github.com/fathomlabs/{{name}}/blob/master/LICENSE" alt="CC0 public domain">
       <img src="https://img.shields.io/badge/license-CC0-ff69b4.svg?style=flat-square">
     </a>
   </p>
